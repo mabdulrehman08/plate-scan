@@ -1,0 +1,52 @@
+{
+  "banana": {
+    "calories": 105,
+    "protein_g": 1.3,
+    "serving": "1 medium banana"
+  },
+  "apple": {
+    "calories": 95,
+    "protein_g": 0.5,
+    "serving": "1 medium apple"
+  },
+  "orange": {
+    "calories": 62,
+    "protein_g": 1.2,
+    "serving": "1 medium orange"
+  },
+  "broccoli": {
+    "calories": 31,
+    "protein_g": 2.5,
+    "serving": "1 cup chopped"
+  },
+  "carrot": {
+    "calories": 25,
+    "protein_g": 0.6,
+    "serving": "1 medium carrot"
+  },
+  "pizza": {
+    "calories": 285,
+    "protein_g": 12,
+    "serving": "1 slice"
+  },
+  "donut": {
+    "calories": 250,
+    "protein_g": 3,
+    "serving": "1 donut"
+  },
+  "cake": {
+    "calories": 350,
+    "protein_g": 4,
+    "serving": "1 slice"
+  },
+  "sandwich": {
+    "calories": 350,
+    "protein_g": 18,
+    "serving": "1 sandwich"
+  },
+  "hot dog": {
+    "calories": 290,
+    "protein_g": 10,
+    "serving": "1 hot dog with bun"
+  }
+}
